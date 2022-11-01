@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://github.com/Alwisuep21/TopCoin
+build-by-default: true
+branches:
+- main
+projects:
+  TopCoin:
+    path: ""
+...
